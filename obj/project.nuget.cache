@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hvL2QSpEK5GHBTTyNoPivKcOz8zTCmCFVE5D+UL1A9TfHRBrNipqhdnf56UvAWvKjVCB1IpiIxSOpC0xdDnJ5A==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\tekta\\OneDrive\\Masaüstü\\Pratikler\\hazir-metotlar-datetime-math\\hazir-metotlar-datetime-math.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tekta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
